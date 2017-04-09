@@ -11,6 +11,7 @@ public class SumOfSortedElements {
 
 		int[] array = { 10, 20, 30, 40, 50, 10 };
 		int sum = 0;
+		// its called foreach it loop. Not advanced.
 		// Advanced for loop
 		for (int num : array) {
 			sum = sum + num;

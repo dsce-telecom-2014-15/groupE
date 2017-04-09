@@ -11,6 +11,7 @@ public class NumberPrinter {
 		System.out.println("hello");
 		int limit = 50;
 		System.out.println("prime number between 1 and :" + limit);
+		// Improve the code for performance
 		for (int i = 1; i < 50; i++) {
 			boolean isPrime = true;
 			for (int j = 2; j < i; j++) {

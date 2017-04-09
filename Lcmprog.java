@@ -13,6 +13,7 @@ public class Lcmprog {
 		findLcm();
 	}
 
+	// TODO: Remove unnecessary comments
 	public static void findLcm() {
 		// TODO Auto-generated method stub
 		System.out.println("enter the n value:");

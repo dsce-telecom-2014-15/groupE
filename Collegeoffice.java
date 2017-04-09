@@ -1,3 +1,4 @@
+// TODO: Code should be well formatted. Fix compile issues.
 import java.io.*;
 import java.util.Scanner;
 class Studentdetails

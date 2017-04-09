@@ -29,6 +29,7 @@ public class MInMax {
 		// But as this method requires a list type of data we need
 		// to convert the array to list first.
 
+		// Please do not use Collections API framework for now.
 		int min = (int) Collections.min(Arrays.asList(numbers));
 		int max = (int) Collections.max(Arrays.asList(numbers));
 

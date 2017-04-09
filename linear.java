@@ -1,7 +1,7 @@
 package progect2;
 
 import java.util.Arrays;
-
+// TODO: classes should be named properly
 public class linear {
 
 	public static void main(String[] args) {
