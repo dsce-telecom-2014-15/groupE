@@ -14,6 +14,7 @@ public class Lcmprog {
 	}
 
 	public static void findLcm() {
+		//TODO Remove unnecessary comments.
 		// TODO Auto-generated method stub
 		System.out.println("enter the n value:");
 		Scanner sc = new Scanner(System.in);

@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
+//TODO Name of the class should be a common noun and should follow CamelCase standards. Please check code conventions document.
 public class MInMax {
 
 	public static void main(String[] args) {
@@ -29,6 +30,7 @@ public class MInMax {
 		// But as this method requires a list type of data we need
 		// to convert the array to list first.
 
+		//TODO You are not supposed to use Collections API as yet.
 		int min = (int) Collections.min(Arrays.asList(numbers));
 		int max = (int) Collections.max(Arrays.asList(numbers));
 

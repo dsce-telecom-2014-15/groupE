@@ -7,7 +7,7 @@ public class LinearSearch {
 	public static void main(String[] args) {
 
 		int c, n, search, array[];
-
+		//TODO There should not be any warnings in production code. Why is variable in highlighted in yellow.
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter number of elements");
 		n = in.nextInt();

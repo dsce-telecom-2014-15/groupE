@@ -18,8 +18,11 @@ public class ConsoleO {
 	}
 
 	private static void readData() {
+		//TODO: variables should be named properly.
 		Scanner sc = new Scanner(System.in);
 		Student studentVar = new Student();
+		//TODO: Proper messages should be displayed to customers/end users
+		// Ex: Here e in enter should be capital.
 		System.out.println("enter the interger value:");
 		int i = sc.nextInt();
 		System.out.println("integer value is:" + i);
